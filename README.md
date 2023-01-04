@@ -1,1 +1,1 @@
-# Ender-3
+# Ender-3-Pro SKR E3 v2
